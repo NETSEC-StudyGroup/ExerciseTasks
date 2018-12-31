@@ -1,0 +1,24 @@
+SCENARIO
+3 windows computers are active in this pcap.  At least one of them hits an exploit kit.  You must determine if any of these hosts were infected.
+
+ 
+
+QUESTIONS
+BASIC QUESTIONS:
+1) What are the host names of the 3 Windows hosts from the pcap?
+2) What is(are) the IP address(es) of the Windows host(s) that hit an exploit kit?
+3) What is(are) the MAC address(es) of the Windows host(s) that hit an exploit kit?
+4) What is(are) the domain name(s) of the compromised web site(s)?
+5) What is(are) the IP address(es) of the compromised web site(s)?
+6) What is(are) the domain name(s) for the exploit kit(s)?
+7) What is(are) the IP address(es) for the exploit kit(s)?
+8) Did any of these hosts get infected?  If so, which host(s)?
+ 
+
+EXTRA QUESTIONS:
+1) What is(are) the exploit kit(s) noted in the pcap?
+2) What type of exploit was used by this(these) exploit kit(s)? (Flash, Java, IE, etc)
+3) What URL(s) acted as a redirect between the compromised website(s) and the exploit kit?
+4) What is(are) the IP address(es) of the redirect URL(s)?
+
+ 
